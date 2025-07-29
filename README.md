@@ -89,39 +89,3 @@ When I’m not coding, I’m:
 
 Got a project or an idea worth building? I’m open to collabs and creative chaos.  
 📧 **Email:** [headghoul@retroghostlabs.com](mailto:headghoul@retroghostlabs.com)
-
-# ✅ Registered Agent Confirmation – RetroGhostLabs, LLC
-
-### 📄 Order Details
-**Confirmation Number:** `#W264AW24`  
-**Service Ordered:** Registered Agent Service in Maryland  
-**Provider:** Northwest Registered Agent Service, Inc.
-
----
-
-### 🏢 Registered Agent Address (Maryland)
-
-```
-Northwest Registered Agent Service, Inc.  
-5000 Thayer Center STE C  
-Oakland, MD 21550  
-```
-
-- **Start Date:** July 29, 2025  
-- **End Date:** July 29, 2026  
-- **Authorized Individual:** Taylor Newman, Officer  
-
----
-
-### 📞 Contact Info
-- **Email:** [support@northwestregisteredagent.com](mailto:support@northwestregisteredagent.com)  
-- **Phone:** 509-768-2249
-
----
-
-> Whether you are trying to form a new company, change your existing Registered Agent, or registering your company to do business in another state, Northwest can help.
-
----
-
-🗃️ _Stored for LLC records and legal compliance tracking in the RetroGhostLabs repo._
-
