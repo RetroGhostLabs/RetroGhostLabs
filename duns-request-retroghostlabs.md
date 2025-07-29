@@ -8,7 +8,11 @@ This file tracks the request for a D‑U‑N‑S Number submitted to Dun & Brads
 ## 📅 Submission Info
 - **Submitted**: July 29, 2025
 - **Submitted Through**: [Apple D‑U‑N‑S Lookup Tool](https://developer.apple.com/enroll/duns-lookup/)
-- **Confirmation**: Awaiting email confirmation from Dun & Bradstreet
+- **Confirmation Email Received**: July 29, 2025
+- **Tracking ID**: 9093315
+- **Case Number**: 9149625
+- **Request Key**: 8ZZ9JY64P2
+- **Status**: Processing – confirmation received from D&B iResearch team
 - **Expected Response Time**: 3–5 business days
 
 ---
@@ -34,6 +38,7 @@ This file tracks the request for a D‑U‑N‑S Number submitted to Dun & Brads
 - Do **not** proceed with Apple Developer Organization enrollment until the D‑U‑N‑S Number is confirmed.
 - Be prepared to answer a verification call or email from D&B to confirm details.
 - Once received, record the 9-digit D‑U‑N‑S Number below.
+- Separate notification will be sent from D&B once the case is resolved.
 
 ---
 
