@@ -57,6 +57,14 @@ Your EIN application was submitted successfully through the IRS EIN Assistant.
 
 ---
 
+## 🔢 EIN Assignment
+
+- **EIN Assigned**: 39-3453664
+- **Legal Name**: RETROGHOSTLABS LLC
+- **Issued Date**: July 29, 2025
+
+---
+
 ## 📝 Notes
 
 - EIN was issued immediately upon submission.
