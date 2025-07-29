@@ -58,6 +58,13 @@
 
 ---
 
+## 🔢 Federal EIN
+- **EIN**: 39-3453664  
+- **Issued**: July 29, 2025 via IRS EIN Assistant  
+- Stored in: `retroghostlabs-ein-summary.md`
+
+---
+
 ## 📝 Notes
 - EIN application and Apple Developer enrollment will proceed next.
 - No MD sales tax account or trade name registration needed at this time.
