@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Shaun
 
-Full-stack engineer focused on clean architecture, modern tooling, and building systems that scale — from dev automation to creative tools.
+Full-stack engineer & founder of RetroGhostLabs focused on clean architecture, modern tooling, and building systems that scale — from dev automation to creative tools. Building AI-powered apps, music tools, and productivity systems. Passionate about clean code, clever UX, and turning ideas into working products.
 
 ## 🧠 What I Do
 
