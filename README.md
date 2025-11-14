@@ -1,77 +1,123 @@
 # 👋 Hey, I'm Shaun
 
-Game developer & content creator at RetroGhostLabs building indie games and sharing workflows for ADHD-friendly productivity. I design games, create YouTube content about Obsidian and AI workflows, and build tools that help neurodivergent creators stay organized and productive.
+Solo developer & content creator at RetroGhostLabs building indie games and sharing AI-accelerated development workflows. I make games, create YouTube content about developer productivity, and release open-source templates for AI-assisted development.
 
 ## 🎮 What I Do
 
-I make **games**, create **content**, and build **AI-powered workflows** using CLI tools and Obsidian. My work centers on practical systems that work *with* ADHD brains, not against them — from game design to video planning to personal knowledge management.
+I build **games**, create **content**, and design **AI-powered workflows** that let solo developers move fast without burning out. My work focuses on practical systems: local LLM infrastructure, dual-AI development setups, and knowledge management for rapid iteration.
 
 ## 🕹️ Current Projects
 
-### 🎮 Electrate
-*In Development*
-A game project exploring [brief description of Electrate's core concept/genre].
+### 🎮 Electorate
+*In Active Development*
 
-### 🐶 Pug Game
-*In Development*
-A game featuring [brief description of Pug game's concept/theme].
-
----
-
-### 🎥 YouTube Content
-Creating videos and tutorials focused on:
-- **ADHD-friendly workflows** for creative work and game dev
-- **Obsidian** power-user tips, vault setups, and AI integrations
-- **AI-assisted workflows** for content creation, game design, and project management
-- Behind-the-scenes game development and design process
+Turn-based political strategy game where you campaign across the electoral college.
+- **Platform:** PC (Steam)
+- **Engine:** Unity
+- **Core Hook:** Procedurally generated political climates with event-driven consequences
+- **Timeline:** 11-month development cycle (currently Week 3)
+- **Tech:** C# + Unity, AI-generated character portraits, JSON data systems
 
 ---
 
-### 🧠 LogicFlows.ai Engine *(Open Source - On Deck)*
-Evolving my visual logic builder into an open-source workflow engine.
-- Originally a full-stack LLM-powered flow builder
-- Pivoting to a CLI-first, modular engine for prompt chains and logic flows
-- Designed for developers who prefer terminal workflows over web UIs
-- Built with the lessons learned from integrating AI into daily creative work
+### 🎥 YouTube: RetroGhostLabs
+Creating content for developers who want to build faster with AI:
+- **AI Workflow Engineering** - Local + cloud LLM combinations
+- **Solo Dev Systems** - Real project dev logs and debugging sessions
+- **Tools & Setup Reviews** - Obsidian, IDEs, automation scripts
+- **Template Releases** - Vault setups, prompt libraries, workflow automation
+
+**Production Stack:** Obsidian for planning, Final Cut Pro for editing, OBS for recording
 
 ---
 
-## 💻 What I Work With
+### ⚡ Specter LLM Server
+Local GPU-accelerated LLM inference infrastructure for cost-effective AI development.
+- **Purpose:** Replace expensive cloud APIs with local inference
+- **Hardware:** NVIDIA RTX 4080 SUPER, 128GB RAM
+- **Performance:** 100-130 tok/s on 7B-13B models
+- **Savings:** ~$1,500-$3,300 annually vs. cloud APIs
+- **Stack:** Ollama runtime, 15+ optimized models, Docker
 
-- **Game Dev:**
-  [Game engines/frameworks you use - Unity, Godot, etc.]
+This powers my entire AI-assisted development workflow without API costs.
 
-- **Content Creation:**
-  Obsidian, CLI AI tools (Claude, ChatGPT, etc.), OBS, video editing tools
+---
 
-- **Development:**
-  TypeScript, JavaScript, Node.js, Bash, Git, Docker
+### 🛠️ Development Infrastructure & Dotfiles
+Sophisticated multi-machine development environment with heavy automation:
+- **Dual-AI Setup:** Cline (IDE plugin) + Claude CLI working in harmony
+- **Auto-Detection:** Automatically loads framework-specific rules (React, Unity, FastAPI, etc.)
+- **Memory Bank:** Shared context across AI tools for consistent assistance
+- **One-Command Init:** Makefile-driven project setup and environment config
 
-- **Workflow Stack:**
-  Obsidian + AI integrations, CLI-first tools, automation scripts, knowledge graphs
+Coming soon: Public dotfiles repo with templates and setup scripts.
+
+---
+
+## 📦 Templates & Resources
+
+This repository will include open-source templates and resources from my YouTube channel:
+
+- **Obsidian Vault Templates** - PARA + Zettelkasten hybrid setups
+- **AI Prompt Libraries** - Game design, YouTube planning, development workflows
+- **Game Design Documents** - Structure and templates for design docs
+- **Workflow Automation Scripts** - Bash/Python scripts for common dev tasks
+- **IDE Configurations** - JetBrains settings and AI integration configs
+
+*More resources coming as YouTube content is released.*
+
+---
+
+## 💻 Tech Stack
+
+**Game Development:**
+- Unity (primary), Godot (exploring)
+- C#, JetBrains Rider
+- AI art tools (Midjourney, Meshy.ai) for rapid asset creation
+
+**AI Development:**
+- Claude CLI, Cline, ChatGPT, Ollama
+- Local LLM inference (self-hosted)
+- Dual-AI workflow automation
+
+**Backend & Infrastructure:**
+- TypeScript, Node.js, Python
+- Docker, PostgreSQL, MongoDB
+- Git-driven development
+
+**Content & Knowledge:**
+- Obsidian (20+ plugins, PARA + Zettelkasten)
+- Final Cut Pro, OBS Studio
+- Markdown-first documentation
 
 ---
 
 ## 🧩 The Philosophy
 
-I used to build separate web apps for everything — music stats, idea tracking, flow builders. Then AI + Obsidian happened.
+**Build Fast, Iterate Faster**
+Heavy AI assistance for acceleration. Prototype first, polish later. Ship working code over perfect code.
 
-Now I've realized: **most of what I built can be done better with a great CLI AI and a well-organized Obsidian vault.** Game design docs? Obsidian. YouTube planning? Obsidian + AI. Personal knowledge base? Obsidian.
+**Self-Hosted > Cloud Dependencies**
+Local LLM server saves thousands annually. No rate limits, no API costs, full control over infrastructure.
 
-I'm focused on building things that *need* to be built (like games), and using smart workflows for everything else.
+**Document Everything**
+Markdown-first docs that feed back into AI tools for better context. Everything version controlled.
+
+**Playful & Scrappy**
+Humor + tech + nostalgia. Slightly chaotic but organized underneath. Creative experimentation encouraged.
 
 ---
 
 ## 🎸 On the Side
 
 When I'm not coding or recording:
-- Writing music or sculpting tone chains on my Tone Master Pro
+- Writing music and sculpting tone chains on guitar/bass
 - Tuning smart home setups to behave properly
-- Organizing my Obsidian vault like it's sacred work
+- Exploring retro tech and creative storytelling experiments
 
 ---
 
 ### 📬 Reach Out
 
-Got a project, collaboration idea, or just want to talk game dev and ADHD workflows?
+Got a project, collaboration idea, or just want to talk AI workflows and game dev?
 📧 **Email:** [headghoul@retroghostlabs.com](mailto:headghoul@retroghostlabs.com)
