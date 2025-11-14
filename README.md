@@ -11,12 +11,18 @@ I build **games**, create **content**, and design **AI-powered workflows** that 
 ### 🎮 Electorate
 *In Active Development*
 
-Turn-based political strategy game where you campaign across the electoral college.
-- **Platform:** PC (Steam)
+Turn-based political strategy game with procedural elements.
+- **Platform:** PC (Steam target)
 - **Engine:** Unity
-- **Core Hook:** Procedurally generated political climates with event-driven consequences
 - **Timeline:** 11-month development cycle (currently Week 3)
-- **Tech:** C# + Unity, AI-generated character portraits, JSON data systems
+- **Tech:** C# + Unity, AI-generated assets, data-driven design
+
+### 🐶 Pooping Pugs: Unleashed
+*Concept/Prototyping Stage*
+
+Comedic mini-game side project for creative breaks.
+- Exploring 3D modeling with AI tools (Meshy.ai)
+- Roblox prototype → Unity rebuild strategy
 
 ---
 
