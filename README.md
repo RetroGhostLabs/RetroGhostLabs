@@ -1,91 +1,77 @@
-# 👋 Hey, I’m Shaun
+# 👋 Hey, I'm Shaun
 
-Full-stack engineer & founder of RetroGhostLabs focused on clean architecture, modern tooling, and building systems that scale — from dev automation to creative tools. Building AI-powered apps, music tools, and productivity systems. Passionate about clean code, clever UX, and turning ideas into working products.
+Game developer & content creator at RetroGhostLabs building indie games and sharing workflows for ADHD-friendly productivity. I design games, create YouTube content about Obsidian and AI workflows, and build tools that help neurodivergent creators stay organized and productive.
 
-## 🧠 What I Do
+## 🎮 What I Do
 
-I build with **TypeScript**, **Node.js**, **Java**, **PostgreSQL**, **MongoDB**, and **Docker**, with an eye for developer experience and maintainability. I prefer monorepos, versioned flows, and clean interfaces that *just work*.
+I make **games**, create **content**, and build **AI-powered workflows** using CLI tools and Obsidian. My work centers on practical systems that work *with* ADHD brains, not against them — from game design to video planning to personal knowledge management.
 
-## 🔧 Projects & Tools
+## 🕹️ Current Projects
 
-### 🚀 LogicFlows.ai  
-Visual logic builder powered by LLMs.  
-- Drag-and-drop flow builder with versioning  
-- Prompt packs and dynamic AI config blocks  
-- Full-stack MERN + OpenAI  
-- Designed for structured thinking, automation, and prompt engineering
+### 🎮 Electrate
+*In Development*
+A game project exploring [brief description of Electrate's core concept/genre].
 
----
-
-### 🧰 QStack  
-A full-stack starter kit + DX toolbox. Designed for building real-world apps fast, without sacrificing structure or sanity.
-
-**Backend:**
-- Node.js + Express or Java + Spring Boot  
-- PostgreSQL and/or MongoDB  
-- REST APIs with JWT auth, role-based access  
-- File upload, error handling, CLI tooling  
-- Dockerized environments and clean `.env` structure
-
-**Frontend:**
-- React + Vite + Tailwind  
-- Auth-aware routing, reusable components, token handling  
-- Pre-wired API service layer
-
-**DX & Tooling:**
-- Turborepo for monorepo control  
-- Prettier, ESLint, lint-staged, and commit hooks  
-- Optionally includes Makefile or Justfile for advanced users
-
-**Sub-projects in the QStack ecosystem:**
-
-#### 🎵 LinerNotes *(early stage)*  
-Flip-through digital liner notes and album art for your music — great for iPad displays or vinyl setups.  
-- Pulls from MusicBrainz, Discogs, and Cover Art Archive  
-- Designed for passive display while listening
-
-#### 📊 TuneQ *(in progress)*  
-Music stats and history tracker.  
-- Merges Apple Music and Spotify listening data  
-- Detects outliers, flags suspicious tracks, and lets you journal sessions  
-- Built for obsessive listeners and music nerds
+### 🐶 Pug Game
+*In Development*
+A game featuring [brief description of Pug game's concept/theme].
 
 ---
 
-### 🧠 ThinkTraq *(in progress)*  
-Lightweight idea tracker and mental scratchpad.  
-- Tag-based journaling for flow-state ideas  
-- Timeline browsing and concept resurfacing  
-- Built to stay out of the way and keep your head clear
+### 🎥 YouTube Content
+Creating videos and tutorials focused on:
+- **ADHD-friendly workflows** for creative work and game dev
+- **Obsidian** power-user tips, vault setups, and AI integrations
+- **AI-assisted workflows** for content creation, game design, and project management
+- Behind-the-scenes game development and design process
+
+---
+
+### 🧠 LogicFlows.ai Engine *(Open Source - On Deck)*
+Evolving my visual logic builder into an open-source workflow engine.
+- Originally a full-stack LLM-powered flow builder
+- Pivoting to a CLI-first, modular engine for prompt chains and logic flows
+- Designed for developers who prefer terminal workflows over web UIs
+- Built with the lessons learned from integrating AI into daily creative work
 
 ---
 
 ## 💻 What I Work With
 
-- **Languages & Tools:**  
-  TypeScript, Java, JavaScript, Node.js, Bash, Docker, Git
+- **Game Dev:**
+  [Game engines/frameworks you use - Unity, Godot, etc.]
 
-- **Databases:**  
-  PostgreSQL, MongoDB
+- **Content Creation:**
+  Obsidian, CLI AI tools (Claude, ChatGPT, etc.), OBS, video editing tools
 
-- **Frontend:**  
-  React, Vite, Tailwind, React Flow
+- **Development:**
+  TypeScript, JavaScript, Node.js, Bash, Git, Docker
 
-- **Infra & DevOps:**  
-  Docker, GitHub Actions, Turborepo, Prettier, ESLint
+- **Workflow Stack:**
+  Obsidian + AI integrations, CLI-first tools, automation scripts, knowledge graphs
+
+---
+
+## 🧩 The Philosophy
+
+I used to build separate web apps for everything — music stats, idea tracking, flow builders. Then AI + Obsidian happened.
+
+Now I've realized: **most of what I built can be done better with a great CLI AI and a well-organized Obsidian vault.** Game design docs? Obsidian. YouTube planning? Obsidian + AI. Personal knowledge base? Obsidian.
+
+I'm focused on building things that *need* to be built (like games), and using smart workflows for everything else.
 
 ---
 
 ## 🎸 On the Side
 
-When I’m not coding, I’m:
-- Writing music or sculpting tone chains on my Tone Master Pro  
-- Tuning smart home setups to behave properly  
-- Cleaning up giant folders of samples like it’s sacred work
+When I'm not coding or recording:
+- Writing music or sculpting tone chains on my Tone Master Pro
+- Tuning smart home setups to behave properly
+- Organizing my Obsidian vault like it's sacred work
 
 ---
 
 ### 📬 Reach Out
 
-Got a project or an idea worth building? I’m open to collabs and creative chaos.  
+Got a project, collaboration idea, or just want to talk game dev and ADHD workflows?
 📧 **Email:** [headghoul@retroghostlabs.com](mailto:headghoul@retroghostlabs.com)
