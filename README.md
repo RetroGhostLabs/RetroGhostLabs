@@ -15,10 +15,10 @@ A family of iOS apps backed by a shared TypeScript/MongoDB platform — built fo
 
 | App | Platform | Status |
 |-----|----------|--------|
-| [DiamondOps Core](https://github.com/RetroGhostLabs/DiamondOpsCore) | Backend (TypeScript) | Phase 1 Complete |
-| [PitchGuessr](https://github.com/RetroGhostLabs/PitchGuessrIOS) | iPhone (SwiftUI) | App Store Prep |
+| DiamondOps Core | Backend (TypeScript) | Phase 1 Complete |
+| PitchGuessr | iPhone (SwiftUI) | App Store Prep |
 | TunnelVision | iPhone (SwiftUI) | App Store Testing |
-| [AlbumQuest](https://github.com/RetroGhostLabs/AlbumQuestIOS) | iPhone (SwiftUI) | Phase 1 Complete |
+| AlbumQuest | iPhone (SwiftUI) | Phase 1 Complete |
 | RosterOps | iPhone (SwiftUI) | Planning |
 
 **DiamondOps Core** — Shared backend infrastructure: auth (Sign in with Apple), subscription entitlements, master card database with nightly SDS sync, OpScore ranking engine, captain synergy analysis, and analytics.
