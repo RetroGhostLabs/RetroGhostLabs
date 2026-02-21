@@ -1,60 +1,59 @@
 # 👋 Hey, I'm Shaun
 
-Solo developer & content creator at RetroGhostLabs building indie games and sharing AI-accelerated development workflows. I make games, create YouTube content about developer productivity, and release open-source templates for AI-assisted development.
+Solo developer & content creator at RetroGhostLabs building iOS apps and sharing AI-accelerated development workflows. I ship native iOS apps, create YouTube content about developer productivity, and build open-source templates for AI-assisted development.
 
 ## 🎮 What I Do
 
-I build **games**, create **content**, and design **AI-powered workflows** that let solo developers move fast without burning out. My work focuses on practical systems: local LLM infrastructure, dual-AI development setups, and knowledge management for rapid iteration.
+I build **iOS apps**, create **content**, and design **AI-powered workflows** that let solo developers move fast without burning out.
 
-## 🕹️ Current Projects
+## 📱 Current Projects
+
+### ⚾ DiamondOps Suite
+*Competitive intelligence ecosystem for MLB The Show Diamond Dynasty*
+
+A family of iOS apps backed by a shared TypeScript/MongoDB platform — built for competitive players who want a tactical edge.
+
+| App | Platform | Status |
+|-----|----------|--------|
+| [DiamondOps Core](https://github.com/RetroGhostLabs/DiamondOpsCore) | Backend (TypeScript) | Phase 1 Complete |
+| [PitchGuessr](https://github.com/RetroGhostLabs/PitchGuessrIOS) | iPhone (SwiftUI) | App Store Prep |
+| TunnelVision | iPhone (SwiftUI) | App Store Testing |
+| [AlbumQuest](https://github.com/RetroGhostLabs/AlbumQuestIOS) | iPhone (SwiftUI) | Phase 1 Complete |
+| RosterOps | iPhone (SwiftUI) | Planning |
+
+**DiamondOps Core** — Shared backend infrastructure: auth (Sign in with Apple), subscription entitlements, master card database with nightly SDS sync, OpScore ranking engine, captain synergy analysis, and analytics.
+
+**PitchGuessr** — Tactical pitch prediction tracker. Log pitches, track opponent patterns, visualize strike zone heatmaps.
+
+**TunnelVision** — PCI and matchup intelligence. Live pitching strategy recommendations based on game situation, count, and handedness.
+
+**AlbumQuest** — Music discovery iOS app. Explore and track albums across genres and eras, complete with badge system and challenge rolls.
+
+---
 
 ### 🎮 Electorate
-*In Active Development*
+*Early Development*
 
 Turn-based political strategy game with procedural elements.
 - **Platform:** PC (Steam target)
 - **Engine:** Unity
-- **Timeline:** 11-month development cycle (currently Week 3)
 - **Tech:** C# + Unity, AI-generated assets, data-driven design
-
-### 🐶 Pooping Pugs: Unleashed
-*Concept/Prototyping Stage*
-
-Comedic mini-game side project for creative breaks.
-- Exploring 3D modeling with AI tools (Meshy.ai)
-- Roblox prototype → Unity rebuild strategy
 
 ---
 
 ### 🎥 YouTube: RetroGhostLabs
 Creating content for developers who want to build faster with AI:
-- **AI Workflow Engineering** - Local + cloud LLM combinations
-- **Solo Dev Systems** - Real project dev logs and debugging sessions
-- **Tools & Setup Reviews** - Obsidian, IDEs, automation scripts
-- **Template Releases** - Vault setups, prompt libraries, workflow automation
+- **AI Vault Framework Series** — Building and open-sourcing an AI-native knowledge workspace
+- **Solo Dev Systems** — Real project dev logs and debugging sessions
+- **AI Workflow Engineering** — Local + cloud LLM combinations
+- **Template Releases** — Vault setups, prompt libraries, workflow automation
 
 **Production Stack:** Obsidian for planning, Final Cut Pro for editing, OBS for recording
 
 ---
 
-### ⚡ Specter LLM Server
-Local GPU-accelerated LLM inference infrastructure for cost-effective AI development.
-- **Purpose:** Replace expensive cloud APIs with local inference
-- **Hardware:** NVIDIA RTX 4080 SUPER, 128GB RAM
-- **Performance:** 100-130 tok/s on 7B-13B models
-- **Savings:** ~$1,500-$3,300 annually vs. cloud APIs
-- **Stack:** Ollama runtime, 15+ optimized models, Docker
-
-This powers my entire AI-assisted development workflow without API costs.
-
----
-
-### 🛠️ Development Infrastructure & Dotfiles
-Sophisticated multi-machine development environment with heavy automation:
-- **Dual-AI Setup:** Cline (IDE plugin) + Claude CLI working in harmony
-- **Auto-Detection:** Automatically loads framework-specific rules (React, Unity, FastAPI, etc.)
-- **Memory Bank:** Shared context across AI tools for consistent assistance
-- **One-Command Init:** Makefile-driven project setup and environment config
+### 🛠️ Development Environment
+A heavily customized multi-machine setup built around fast iteration and minimal friction — documented and versioned so it travels with me across machines.
 
 Coming soon: Public dotfiles repo with templates and setup scripts.
 
@@ -62,11 +61,10 @@ Coming soon: Public dotfiles repo with templates and setup scripts.
 
 ## 📦 Templates & Resources
 
-This repository will include open-source templates and resources from my YouTube channel:
+Open-source templates and resources from my YouTube channel:
 
-- **Obsidian Vault Templates** - PARA + Zettelkasten hybrid setups
+- **Obsidian Vault Templates** - AI-native PARA + Zettelkasten hybrid setups
 - **AI Prompt Libraries** - Game design, YouTube planning, development workflows
-- **Game Design Documents** - Structure and templates for design docs
 - **Workflow Automation Scripts** - Bash/Python scripts for common dev tasks
 - **IDE Configurations** - JetBrains settings and AI integration configs
 
@@ -76,41 +74,34 @@ This repository will include open-source templates and resources from my YouTube
 
 ## 💻 Tech Stack
 
-**Game Development:**
-- Unity (primary), Godot (exploring)
-- C#, JetBrains Rider
-- AI art tools (Midjourney, Meshy.ai) for rapid asset creation
-
-**AI Development:**
-- Claude CLI, Cline, ChatGPT, Ollama
-- Local LLM inference (self-hosted)
-- Dual-AI workflow automation
+**iOS Development:**
+- Swift, SwiftUI
+- SwiftData, MusicKit
+- iOS 15.0+ target, MVVM architecture
 
 **Backend & Infrastructure:**
-- TypeScript, Node.js, Python
-- Docker, PostgreSQL, MongoDB
-- Git-driven development
+- TypeScript, Node.js, MongoDB
+- Docker, REST APIs
+
+**Game Development:**
+- Unity (C#)
+- AI art tools (Midjourney, Meshy.ai)
 
 **Content & Knowledge:**
-- Obsidian (20+ plugins, PARA + Zettelkasten)
-- Final Cut Pro, OBS Studio
-- Markdown-first documentation
+- Obsidian, Final Cut Pro, OBS Studio
 
 ---
 
 ## 🧩 The Philosophy
 
 **Build Fast, Iterate Faster**
-Heavy AI assistance for acceleration. Prototype first, polish later. Ship working code over perfect code.
-
-**Self-Hosted > Cloud Dependencies**
-Local LLM server saves thousands annually. No rate limits, no API costs, full control over infrastructure.
+Prototype first, polish later. Ship working code over perfect code.
 
 **Document Everything**
 Markdown-first docs that feed back into AI tools for better context. Everything version controlled.
 
 **Playful & Scrappy**
-Humor + tech + nostalgia. Slightly chaotic but organized underneath. Creative experimentation encouraged.
+Humor + tech + nostalgia. Slightly chaotic but organized underneath.
 
 ---
 
@@ -125,5 +116,5 @@ When I'm not coding or recording:
 
 ### 📬 Reach Out
 
-Got a project, collaboration idea, or just want to talk AI workflows and game dev?
+Got a project, collaboration idea, or just want to talk iOS dev and AI workflows?
 📧 **Email:** [headghoul@retroghostlabs.com](mailto:headghoul@retroghostlabs.com)
