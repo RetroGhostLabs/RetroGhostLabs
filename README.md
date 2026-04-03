@@ -1,120 +1,105 @@
 # 👋 Hey, I'm Shaun
 
-Solo developer & content creator at RetroGhostLabs building iOS apps and sharing AI-accelerated development workflows. I ship native iOS apps, create YouTube content about developer productivity, and build open-source templates for AI-assisted development.
+Solo developer and founder at **RetroGhostLabs**. I build native iOS apps, run a self-hosted infrastructure stack, and create YouTube content about shipping real products as a solo dev with AI-accelerated workflows.
 
 ## 🎮 What I Do
 
-I build **iOS apps**, create **content**, and design **AI-powered workflows** that let solo developers move fast without burning out.
+I design, build, and ship **iOS apps** backed by a shared **TypeScript/MongoDB platform** — then document the whole process on YouTube. Everything from idea to App Store, one person, no team.
 
 ## 📱 Current Projects
 
 ### ⚾ DiamondOps Suite
-*Competitive intelligence ecosystem for MLB The Show Diamond Dynasty*
+*Competitive intelligence platform for MLB The Show Diamond Dynasty*
 
-A family of iOS apps backed by a shared TypeScript/MongoDB platform — built for competitive players who want a tactical edge.
+A family of iOS apps and web tools powered by a shared backend — built for competitive players who want a tactical edge.
 
 | App | Platform | Status |
 |-----|----------|--------|
-| DiamondOps Core | Backend (TypeScript) | Phase 1 Complete |
-| PitchGuessr | iPhone (SwiftUI) | App Store Prep |
-| TunnelVision | iPhone (SwiftUI) | App Store Testing |
-| AlbumQuest | iPhone (SwiftUI) | Phase 1 Complete |
-| RosterOps | iPhone (SwiftUI) | Planning |
+| **DiamondOps Core** | Backend (TypeScript/MongoDB) | Live — powering all apps |
+| **PitchTunnels** | iPhone (SwiftUI) | ✅ App Store (v1.1) |
+| **PitchGuessr** | iPhone (SwiftUI) | ✅ App Store (v1.1.1) |
+| **StubOps** | iPhone (SwiftUI) | Active Development |
+| **DiamondOpsWeb** | Web (Next.js) | Active Development |
 
-**DiamondOps Core** — Shared backend infrastructure: auth (Sign in with Apple), subscription entitlements, master card database with nightly SDS sync, OpScore ranking engine, captain synergy analysis, and analytics.
+**DiamondOps Core** — Shared platform: auth (Sign in with Apple), subscription entitlements, master card database with nightly SDS sync, OpScore ranking engine, and analytics pipeline.
+
+**PitchTunnels** — PCI and matchup intelligence. Live pitching strategy recommendations based on game situation, count, and handedness.
 
 **PitchGuessr** — Tactical pitch prediction tracker. Log pitches, track opponent patterns, visualize strike zone heatmaps.
 
-**TunnelVision** — PCI and matchup intelligence. Live pitching strategy recommendations based on game situation, count, and handedness.
+**StubOps** — Market intelligence and inventory management. Track your collection value, monitor the marketplace, and make smarter buy/sell decisions.
 
-**AlbumQuest** — Music discovery iOS app. Explore and track albums across genres and eras, complete with badge system and challenge rolls.
+**DiamondOpsWeb** — Web companion for the DiamondOps ecosystem. Portfolio analytics, market data, and admin tooling.
 
 ---
 
-### 🎮 Electorate
-*Early Development*
+### 🔮 On Hold
 
-Turn-based political strategy game with procedural elements.
-- **Platform:** PC (Steam target)
-- **Engine:** Unity
-- **Tech:** C# + Unity, AI-generated assets, data-driven design
+| Project | What It Is | Status |
+|---------|-----------|--------|
+| **AlbumQuest** | Music discovery iOS app — explore albums, earn badges, complete challenge rolls | Paused — may revisit |
+| **Electorate** | Turn-based political strategy game (Unity/C#) | Back burner |
 
 ---
 
 ### 🎥 YouTube: RetroGhostLabs
-Creating content for developers who want to build faster with AI:
-- **AI Vault Framework Series** — Building and open-sourcing an AI-native knowledge workspace
-- **Solo Dev Systems** — Real project dev logs and debugging sessions
-- **AI Workflow Engineering** — Local + cloud LLM combinations
-- **Template Releases** — Vault setups, prompt libraries, workflow automation
+
+Content for developers who want to ship faster solo:
+- **DFN (Diamond Facts Network)** — MLB The Show market analysis and app demos
+- **Dev Logs** — Real project sessions, debugging, and shipping workflows
+- **YouTube Shorts** — Quick tips, app previews, and behind-the-scenes clips
+- **AI Workflow Engineering** — How I use Claude Code, local LLMs, and automation to move fast
 
 **Production Stack:** Obsidian for planning, Final Cut Pro for editing, OBS for recording
 
 ---
 
-### 🛠️ Development Environment
-A heavily customized multi-machine setup built around fast iteration and minimal friction — documented and versioned so it travels with me across machines.
+### 🏠 Infrastructure
 
-Coming soon: Public dotfiles repo with templates and setup scripts.
-
----
-
-## 📦 Templates & Resources
-
-Open-source templates and resources from my YouTube channel:
-
-- **Obsidian Vault Templates** - AI-native PARA + Zettelkasten hybrid setups
-- **AI Prompt Libraries** - Game design, YouTube planning, development workflows
-- **Workflow Automation Scripts** - Bash/Python scripts for common dev tasks
-- **IDE Configurations** - JetBrains settings and AI integration configs
-
-*More resources coming as YouTube content is released.*
+Self-hosted homelab powering development, automation, and monitoring:
+- **Bozly** — Home server running Docker services
+- **n8n** — Workflow automation (Apple Search Ads monitoring, notifications)
+- **Grafana** — Dashboards and observability
+- **Cloudflare Tunnels** — Secure access to internal services
+- **Dolt** — Git-for-data task tracking (Beads)
 
 ---
 
 ## 💻 Tech Stack
 
-**iOS Development:**
-- Swift, SwiftUI
-- SwiftData, MusicKit
-- iOS 15.0+ target, MVVM architecture
+**iOS:** Swift, SwiftUI, SwiftData, MusicKit · MVVM · iOS 15+
 
-**Backend & Infrastructure:**
-- TypeScript, Node.js, MongoDB
-- Docker, REST APIs
+**Backend:** TypeScript, Node.js, Express, MongoDB · Docker · REST APIs
 
-**Game Development:**
-- Unity (C#)
-- AI art tools (Midjourney, Meshy.ai)
+**Web:** Next.js, React, Tailwind CSS
 
-**Content & Knowledge:**
-- Obsidian, Final Cut Pro, OBS Studio
+**Infrastructure:** Docker, Cloudflare, Grafana, n8n, Dolt
+
+**AI Workflow:** Claude Code, Obsidian (PARA + Zettelkasten), custom automation scripts
 
 ---
 
-## 🧩 The Philosophy
+## 🧩 Philosophy
 
-**Build Fast, Iterate Faster**
-Prototype first, polish later. Ship working code over perfect code.
+**Ship It** — Working code over perfect code. Prototype first, polish after launch.
 
-**Document Everything**
-Markdown-first docs that feed back into AI tools for better context. Everything version controlled.
+**Own the Stack** — Self-host what matters. Control the data, the infra, and the workflow.
 
-**Playful & Scrappy**
-Humor + tech + nostalgia. Slightly chaotic but organized underneath.
+**Document Everything** — Markdown-first. Version-controlled. Feeds back into AI tools for better context.
 
 ---
 
-## 🎸 On the Side
+## 🎸 Off the Clock
 
-When I'm not coding or recording:
+When I'm not shipping:
 - Writing music and sculpting tone chains on guitar/bass
-- Tuning smart home setups to behave properly
-- Exploring retro tech and creative storytelling experiments
+- Tuning smart home setups
+- Exploring retro tech and creative storytelling
 
 ---
 
 ### 📬 Reach Out
 
-Got a project, collaboration idea, or just want to talk iOS dev and AI workflows?
+Got a project idea, collaboration, or just want to talk iOS dev and AI workflows?
+
 📧 **Email:** [headghoul@retroghostlabs.com](mailto:headghoul@retroghostlabs.com)
