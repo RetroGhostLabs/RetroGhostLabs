@@ -45,7 +45,7 @@ A family of iOS apps and web tools powered by a shared backend — built for com
 ### 🎥 YouTube: RetroGhostLabs
 
 Content for developers who want to ship faster solo:
-- **DFN (Diamond Facts Network)** — MLB The Show market analysis and app demos
+- **DFN (Diamond Financial Network)** — MLB The Show market analysis and app demos
 - **Dev Logs** — Real project sessions, debugging, and shipping workflows
 - **YouTube Shorts** — Quick tips, app previews, and behind-the-scenes clips
 - **AI Workflow Engineering** — How I use Claude Code, local LLMs, and automation to move fast
