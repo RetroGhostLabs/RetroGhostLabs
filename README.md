@@ -21,7 +21,7 @@ A family of iOS apps and web tools powered by a shared backend — built for com
 | **StubOps** | iPhone (SwiftUI) | Active Development |
 | **DiamondOpsWeb** | Web (Next.js) | Active Development |
 
-**DiamondOps Core** — Shared platform: auth (Sign in with Apple), subscription entitlements, master card database with nightly SDS sync, OpScore ranking engine, and analytics pipeline.
+**DiamondOps Core** — Shared platform: auth (Sign in with Apple or Google), subscription entitlements, master card database with nightly SDS sync, OpScore ranking engine, and analytics pipeline.
 
 **PitchTunnels** — PCI and matchup intelligence. Live pitching strategy recommendations based on game situation, count, and handedness.
 
