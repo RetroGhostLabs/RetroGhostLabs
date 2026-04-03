@@ -50,7 +50,7 @@ Content for developers who want to ship faster solo:
 - **YouTube Shorts** — Quick tips, app previews, and behind-the-scenes clips
 - **AI Workflow Engineering** — How I use Claude Code, local LLMs, and automation to move fast
 
-**Production Stack:** Obsidian for planning, Final Cut Pro for editing, OBS for recording
+**Production Stack:** Obsidian for planning, Final Cut Pro for editing, Ecamm for recording
 
 ---
 
