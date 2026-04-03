@@ -59,10 +59,6 @@ Content for developers who want to ship faster solo:
 Self-hosted homelab powering development, automation, and monitoring:
 - **Bozly** — Home server running Docker services
 - **n8n** — Workflow automation (Apple Search Ads monitoring, notifications)
-- **Grafana** — Dashboards and observability
-- **Cloudflare Tunnels** — Secure access to internal services
-- **Dolt** — Git-for-data task tracking (Beads)
-
 ---
 
 ## 💻 Tech Stack
