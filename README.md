@@ -98,4 +98,4 @@ When I'm not shipping:
 
 Got a project idea, collaboration, or just want to talk iOS dev and AI workflows?
 
-📧 **Email:** [headghoul@retroghostlabs.com](mailto:headghoul@retroghostlabs.com)
+📧 **Email:** [shaun@retroghostlabs.com](mailto:shaun@retroghostlabs.com)
