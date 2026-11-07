@@ -132,9 +132,7 @@ A Docker stack I run myself for databases, automation and monitoring: Postgres, 
 
 ## 🧩 How I work
 
-<p align="center">
-  <img src="https://content.diamondops.gg/avatars/owner/stylized-01-graphic.png" width="180" alt="Illustrated portrait of Shaun on a blue and orange striped background" />
-</p>
+<img src="https://content.diamondops.gg/avatars/owner/stylized-01-graphic.png" width="150" align="right" alt="Illustrated portrait of Shaun on a blue and orange striped background" />
 
 **Ship it** — working code over perfect code. Prototype, launch, then polish.
 
@@ -143,6 +141,8 @@ A Docker stack I run myself for databases, automation and monitoring: Postgres, 
 **Grade yourself in public** — predictions get report cards, misses get post-mortems.
 
 **Write it down** — Markdown-first and version-controlled, so the AI tools get better context too.
+
+<br clear="right" />
 
 ## 🎸 Off the clock
 
