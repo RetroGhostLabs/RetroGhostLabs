@@ -130,9 +130,9 @@ A Docker stack I run myself for databases, automation and monitoring: Postgres, 
 
 ---
 
-<img src="assets/shaun-plotting.jpg" width="160" align="right" alt="Illustration of Shaun, hand on chin, plotting the next release while a small ghost peeks over his shoulder" />
-
 ## 🧩 How I work
+
+<img src="assets/pitchguessr-whiteboard.jpg" width="200" align="right" alt="A whiteboard sketch of a strike-zone grid with pitch-count notes beside it: the first design for PitchGuessr" />
 
 **Ship it** — working code over perfect code. Prototype, launch, then polish.
 
@@ -141,6 +141,10 @@ A Docker stack I run myself for databases, automation and monitoring: Postgres, 
 **Grade yourself in public** — predictions get report cards, misses get post-mortems.
 
 **Write it down** — Markdown-first and version-controlled, so the AI tools get better context too.
+
+<sub><i>Every app starts on a whiteboard. This one became PitchGuessr.</i></sub>
+
+<br clear="right" />
 
 ## 🎸 Off the clock
 
