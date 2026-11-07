@@ -73,8 +73,8 @@ One shared platform, three App Store apps, a web app, a blog and an automated vi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RetroGhostLabs&theme=tokyonight&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=RetroGhostLabs&theme=default&hide_border=true" alt="Shaun's GitHub contribution streak, including private contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://retroghostlabs.com/api/github-stats?theme=dark" />
+    <img src="https://retroghostlabs.com/api/github-stats?theme=light" alt="Shaun's GitHub stats: contributions, pull requests, repos and top languages, including private repos" />
   </picture>
 </p>
 
