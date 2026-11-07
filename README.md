@@ -130,7 +130,7 @@ A Docker stack I run myself for databases, automation and monitoring: Postgres, 
 
 ---
 
-<img src="assets/shaun-scheming.jpg" width="140" align="right" alt="Shaun, hand on chin, plotting the next release" />
+<img src="assets/shaun-plotting.jpg" width="160" align="right" alt="Illustration of Shaun, hand on chin, plotting the next release while a small ghost peeks over his shoulder" />
 
 ## 🧩 How I work
 
